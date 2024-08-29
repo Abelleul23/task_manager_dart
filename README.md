@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-=======
 Task Manager Application
 A Dart application of a basic leadership run-time environment in the command-line format. This application allows users to manage tasks with the following functionalities:This application allows users to manage tasks with the following functionalities:
 
@@ -24,4 +20,3 @@ View completed tasks
 View pending tasks
 Edit a task
 Delete a task
->>>>>>> origin/main
